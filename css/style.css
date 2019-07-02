@@ -1,0 +1,13 @@
+.nenden{
+	background: black;
+}
+.nenden a{
+	color: #DEB887;
+}
+.nenden a:hover{
+	color: white;
+}
+.vien{
+	border: ridge 1px;
+	padding: 5px;
+}
